@@ -1,0 +1,172 @@
+.arriba { 
+    background-color: #fe5335;
+    height: 400px;
+}
+
+.nombre
+{
+    padding-top: 2%;
+}
+    
+.bloggr
+    {
+        color: #FFFFFF;
+        opacity: 100%;
+        font-size: 22px;
+        font-face: Lato-Black;
+        character: 0px;
+        line: 27px;
+    }
+
+.john
+    {
+        color: #222222;
+        opacity: 100%;
+        font-size: 14px;
+        font-face: Lato-Bold;
+        character: 0px;
+        line: 17px;
+    }
+
+.photo
+    {
+        color: : #FFFFFF;
+        opacity: 100%;
+        font-size: 14px;
+        font-face: Lato-Bold;
+        character: 0px;
+        line: 17px;
+        font-style: cursive;
+    }
+
+.if
+    {
+      color: #FFFFFF;
+      opacity: 100%;
+      font-size: 43px;
+      font-face: Lato-Ligth;
+      character: 0px;
+      line:51px;
+    }
+    
+.dont
+    {
+        color:#FFFFFF;
+        opacity: 100%;
+        font-size: 43px;
+        font-face:Lato-Black;
+        character:0px;
+        line:51px;
+    }
+
+.todo
+{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+    
+.img1
+    {
+        width: 85px;
+        height: 85px;
+        border-radius: 100%;
+    }
+
+.img2
+{
+    width: 135px;
+    height: 135px;
+    border-radius: 100%;
+    margin-top: 5%;
+}
+    
+.here
+    {
+      color: #FFFFFF;
+      opacity: 100%;
+      font-size: 14px;
+      font-face: Lato-Regular;
+      character:2px;
+      line:17px;
+    }
+
+.my
+{
+    color: #e82a2a;
+    opacity: 100%;
+    font-size: 20px;
+    font-face: Lato-Bold;
+    character: 0.2px;
+    line: 24px;
+    text-align: center;
+}
+
+.the
+{
+  color: #000000;
+    opacity: 100%;
+    font-size: 14px;
+    font-face: Lato-Regular;
+    character: 0px;
+    line: 22px;
+    text-align: center;
+}
+
+.remo
+{
+    background-color: #FF5335;
+    color: #FFFFFF;
+    opacity: 100%;
+}
+
+.pie
+    {
+       background-color: #000000; 
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+    
+.topic
+    {
+        color: #ffffff;
+        opacity: 100%;
+        font-size: 24px;
+        font-face: Lato-Black;
+        character: 0px;
+        line:29px;
+        margin-top: 30px;
+        text-align: justify;
+    }
+    
+.according
+    {
+       color: #ffffff;
+        opacity: 100%;
+        font-size: 14px;
+        font-face: Lato-Regular;
+        character: 0px;
+        line:22px;
+        text-align: justify;
+    }
+    
+.read
+    {
+       color: #e82a2a;
+       opacity: 100%;
+       font-size: 14px;
+       font-face: Lato-Regular;
+       character: 0px;
+       line: 17px;
+        text-align: justify;
+    }
+
+.img3
+{
+    margin-top: 30px;
+}
+
+.text
+{
+    padding-left: 15%;
+}
